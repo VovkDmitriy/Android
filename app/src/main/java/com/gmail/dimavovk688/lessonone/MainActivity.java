@@ -75,7 +75,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void goToEditTextPage(View view){
-        Intent intent = new Intent();
+        Intent intent = new Intent(this, EditTestActivity.class);
+        startActivity(intent);
+    }
+
+    public void goToCalendar(View view){
+        Intent intent = new Intent(this, CalendarActivity.class);
         startActivity(intent);
     }
 }

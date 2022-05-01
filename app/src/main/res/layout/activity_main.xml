@@ -32,7 +32,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="4dp"
         android:text="Switch"
-        tools:ignore="Change" />
+        tools:ignore="Change,TouchTargetSizeCheck" />
 
     <CheckBox
         android:id="@+id/checkBox"
@@ -46,5 +46,13 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="4dp"
+        android:onClick="goToEditTextPage"
         android:text="Go to edit text page" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="goToCalendar"
+        android:text="go to calendar" />
 </LinearLayout>

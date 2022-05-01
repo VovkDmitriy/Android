@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Desktop/androidstudio/LessonOne/app/src/main/res/layout/activity_calendar.xml" value="0.27447916666666666" />
+        <entry key="..\:/Desktop/androidstudio/LessonOne/app/src/main/res/layout/activity_edit_test.xml" value="0.27447916666666666" />
         <entry key="..\:/Desktop/androidstudio/LessonOne/app/src/main/res/layout/activity_edit_text.xml" value="0.27447916666666666" />
         <entry key="..\:/Desktop/androidstudio/LessonOne/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
       </map>
